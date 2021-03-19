@@ -17,8 +17,8 @@
   </properties>
   
   <modules>
-  <module>sub</module>
   <module>add</module>
+  <module>sub</module>
   </modules>
 
   <dependencies>
