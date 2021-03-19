@@ -18,9 +18,9 @@
 
 <parent>
    <groupId>Training</groupId>
-   <artifactId>Demo</artifactId>
+   <artifactId>Demo12</artifactId>
    <version>1.0-SNAPSHOT</version>
-  </parent>
+</parent>
 
   <dependencies>
   <dependency>
